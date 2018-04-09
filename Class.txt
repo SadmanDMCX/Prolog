@@ -1,0 +1,7 @@
+loves(romeo, juliet). => fact
+
+loves => predicate
+romeo, juliet => atoms(constants)
+
+:- => Rule/if
+
